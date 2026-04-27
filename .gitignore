@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+history_log.json
+learning_memory.json
